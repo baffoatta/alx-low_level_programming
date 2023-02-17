@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - print whether the num stored in the variable n is positive or negative.
+ * main - print whether the num stored in the variable n is pos or neg.
  * Return: 0
 **/
 
